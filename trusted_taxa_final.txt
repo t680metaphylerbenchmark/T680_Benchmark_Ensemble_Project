@@ -1,0 +1,1052 @@
+taxa_id	taxa_lvl	taxa_name
+10	genus	Cellvibrio
+18	genus	Pelobacter
+19	species	Pelobacter carbinolicus
+20	genus	Phenylobacterium
+22	genus	Shewanella
+24	species	Shewanella putrefaciens
+32	genus	Myxococcus
+33	species	Myxococcus fulvus
+34	species	Myxococcus xanthus
+40	genus	Stigmatella
+41	species	Stigmatella aurantiaca
+56	species	Sorangium cellulosum
+75	genus	Caulobacter
+104	species	Cyclobacterium marinum
+105	genus	Runella
+106	species	Runella slithyformis
+118	genus	Planctomyces
+119	species	Rubinisphaera brasiliensis
+120	species	Planctopirus limnophila
+127	genus	Isosphaera
+128	species	Isosphaera pallida
+138	genus	Borrelia
+140	species	Borrelia hermsii
+142	species	Borrelia turicatae
+146	genus	Spirochaeta
+154	species	Spirochaeta thermophila
+157	genus	Treponema
+158	species	Treponema denticola
+171	genus	Leptospira
+172	species	Leptospira biflexa
+174	species	Leptospira borgpetersenii
+191	genus	Azospirillum
+193	species	Azospirillum lipoferum
+194	genus	Campylobacter
+196	species	Campylobacter fetus
+199	species	Campylobacter concisus
+209	genus	Helicobacter
+210	species	Helicobacter pylori
+212	species	Helicobacter acinonychis
+213	species	Helicobacter cinaedi
+217	species	Helicobacter mustelae
+226	genus	Alteromonas
+228	species	Pseudoalteromonas haloplanktis
+234	genus	Brucella
+237	genus	Flavobacterium
+262	genus	Francisella
+263	species	Francisella tularensis
+265	genus	Paracoccus
+266	species	Paracoccus denitrificans
+270	genus	Thermus
+274	species	Thermus thermophilus
+277	species	Meiothermus ruber
+286	genus	Pseudomonas
+287	species	Pseudomonas aeruginosa
+288	species	Pseudoalteromonas atlantica
+294	species	Pseudomonas fluorescens
+300	species	Pseudomonas mendocina
+303	species	Pseudomonas putida
+316	species	Pseudomonas stutzeri
+317	species	Pseudomonas syringae
+329	species	Ralstonia pickettii
+338	genus	Xanthomonas
+339	species	Xanthomonas campestris
+352	genus	Azotobacter
+354	species	Azotobacter vinelandii
+357	genus	Agrobacterium
+358	species	Agrobacterium tumefaciens
+373	species	Agrobacterium vitis
+374	genus	Bradyrhizobium
+379	genus	Rhizobium
+382	species	Sinorhizobium meliloti
+384	species	Rhizobium leguminosarum
+404	genus	Methylobacillus
+405	species	Methylobacillus flagellatus
+407	genus	Methylobacterium
+408	species	Methylobacterium extorquens
+413	genus	Methylococcus
+414	species	Methylococcus capsulatus
+416	genus	Methylomonas
+421	species	Methylomonas methanica
+434	genus	Acetobacter
+438	species	Acetobacter pasteurianus
+445	genus	Legionella
+450	species	Legionella longbeachae
+469	genus	Acinetobacter
+470	species	Acinetobacter baumannii
+475	genus	Moraxella
+480	species	Moraxella catarrhalis
+482	genus	Neisseria
+485	species	Neisseria gonorrhoeae
+486	species	Neisseria lactamica
+487	species	Neisseria meningitidis
+497	genus	Psychrobacter
+499	genus	Thermomicrobium
+500	species	Thermomicrobium roseum
+517	genus	Bordetella
+518	species	Bordetella bronchiseptica
+520	species	Bordetella pertussis
+522	genus	Acidiphilium
+532	genus	Beijerinckia
+533	species	Beijerinckia indica
+541	genus	Zymomonas
+542	species	Zymomonas mobilis
+544	genus	Citrobacter
+545	species	Citrobacter koseri
+547	genus	Enterobacter
+548	species	Enterobacter aerogenes
+550	species	Enterobacter cloacae
+551	genus	Erwinia
+552	species	Erwinia amylovora
+553	species	Pantoea ananatis
+554	species	Pectobacterium carotovorum
+561	genus	Escherichia
+562	species	Escherichia coli
+570	genus	Klebsiella
+573	species	Klebsiella pneumoniae
+586	genus	Providencia
+588	species	Providencia stuartii
+590	genus	Salmonella
+613	genus	Serratia
+620	genus	Shigella
+622	species	Shigella dysenteriae
+626	genus	Xenorhabdus
+629	genus	Yersinia
+632	species	Yersinia pestis
+633	species	Yersinia pseudotuberculosis
+635	genus	Edwardsiella
+636	species	Edwardsiella tarda
+642	genus	Aeromonas
+645	species	Aeromonas salmonicida
+657	genus	Photobacterium
+662	genus	Vibrio
+666	species	Vibrio cholerae
+670	species	Vibrio parahaemolyticus
+672	species	Vibrio vulnificus
+680	species	Vibrio campbellii
+713	genus	Actinobacillus
+714	species	Aggregatibacter actinomycetemcomitans
+724	genus	Haemophilus
+727	species	Haemophilus influenzae
+729	species	Haemophilus parainfluenzae
+731	species	Histophilus somni
+732	species	Aggregatibacter aphrophilus
+738	species	[Haemophilus] parasuis
+745	genus	Pasteurella
+747	species	Pasteurella multocida
+750	species	Gallibacterium anatis
+768	genus	Anaplasma
+769	species	Anaplasma centrale
+770	species	Anaplasma marginale
+773	genus	Bartonella
+776	genus	Coxiella
+777	species	Coxiella burnetii
+779	species	Ehrlichia ruminantium
+780	genus	Rickettsia
+784	species	Orientia tsutsugamushi
+786	species	Rickettsia akari
+803	species	Bartonella quintana
+810	genus	Chlamydia
+813	species	Chlamydia trachomatis
+816	genus	Bacteroides
+817	species	Bacteroides fragilis
+821	species	Bacteroides vulgatus
+823	species	Parabacteroides distasonis
+826	species	Sebaldella termitidis
+830	genus	Butyrivibrio
+832	genus	Fibrobacter
+833	species	Fibrobacter succinogenes
+836	genus	Porphyromonas
+837	species	Porphyromonas gingivalis
+838	genus	Prevotella
+839	species	Prevotella ruminicola
+843	genus	Wolinella
+844	species	Wolinella succinogenes
+848	genus	Fusobacterium
+851	species	Fusobacterium nucleatum
+862	genus	Syntrophomonas
+863	species	Syntrophomonas wolfei
+869	genus	Dichelobacter
+870	species	Dichelobacter nodosus
+872	genus	Desulfovibrio
+873	species	Desulfovibrio africanus
+880	species	Desulfovibrio salexigens
+881	species	Desulfovibrio vulgaris
+893	genus	Desulfobulbus
+894	species	Desulfobulbus propionicus
+904	genus	Acidaminococcus
+905	species	Acidaminococcus fermentans
+906	genus	Megasphaera
+907	species	Megasphaera elsdenii
+911	genus	Nitrobacter
+912	species	Nitrobacter hamburgensis
+913	species	Nitrobacter winogradskyi
+914	genus	Nitrosomonas
+915	species	Nitrosomonas europaea
+916	species	Nitrosomonas eutropha
+919	genus	Thiobacillus
+921	species	Starkeya novella
+933	genus	Thiomicrospira
+939	genus	Hydrogenobacter
+940	species	Hydrogenobacter thermophilus
+943	genus	Ehrlichia
+944	species	Ehrlichia canis
+945	species	Ehrlichia chaffeensis
+948	species	Anaplasma phagocytophilum
+953	genus	Wolbachia
+958	genus	Bdellovibrio
+959	species	Bdellovibrio bacteriovorus
+978	genus	Cytophaga
+979	species	Cellulophaga lytica
+984	species	Pedobacter heparinus
+985	species	Cytophaga hutchinsonii
+986	species	Flavobacterium johnsoniae
+995	species	Solitalea canadensis
+1016	genus	Capnocytophaga
+1018	species	Capnocytophaga ochracea
+1060	genus	Rhodobacter
+1061	species	Rhodobacter capsulatus
+1063	species	Rhodobacter sphaeroides
+1073	genus	Rhodopseudomonas
+1076	species	Rhodopseudomonas palustris
+1081	genus	Rhodospirillum
+1085	species	Rhodospirillum rubrum
+1091	genus	Chlorobium
+1092	species	Chlorobium limicola
+1094	species	Chlorobium phaeovibrioides
+1096	species	Chlorobium phaeobacteroides
+1099	genus	Pelodictyon
+1100	species	Pelodictyon luteolum
+1101	genus	Prosthecochloris
+1102	species	Prosthecochloris aestuarii
+1107	genus	Chloroflexus
+1129	genus	Synechococcus
+1163	genus	Anabaena
+1172	species	Anabaena variabilis
+1177	genus	Nostoc
+1205	genus	Trichodesmium
+1206	species	Trichodesmium erythraeum
+1218	genus	Prochlorococcus
+1219	species	Prochlorococcus marinus
+1227	genus	Nitrosococcus
+1229	species	Nitrosococcus oceani
+1231	species	Nitrosospira multiformis
+1234	genus	Nitrospira
+1243	genus	Leuconostoc
+1244	species	Leuconostoc gelidum
+1245	species	Leuconostoc mesenteroides
+1247	species	Oenococcus oeni
+1252	species	Leuconostoc carnosum
+1253	genus	Pediococcus
+1255	species	Pediococcus pentosaceus
+1260	species	Finegoldia magna
+1263	genus	Ruminococcus
+1264	species	Ruminococcus albus
+1269	genus	Micrococcus
+1270	species	Micrococcus luteus
+1276	species	Kytococcus sedentarius
+1279	genus	Staphylococcus
+1280	species	Staphylococcus aureus
+1282	species	Staphylococcus epidermidis
+1298	genus	Deinococcus
+1299	species	Deinococcus radiodurans
+1301	genus	Streptococcus
+1303	species	Streptococcus oralis
+1304	species	Streptococcus salivarius
+1305	species	Streptococcus sanguinis
+1307	species	Streptococcus suis
+1308	species	Streptococcus thermophilus
+1309	species	Streptococcus mutans
+1311	species	Streptococcus agalactiae
+1313	species	Streptococcus pneumoniae
+1314	species	Streptococcus pyogenes
+1318	species	Streptococcus parasanguinis
+1334	species	Streptococcus dysgalactiae
+1336	species	Streptococcus equi
+1349	species	Streptococcus uberis
+1350	genus	Enterococcus
+1351	species	Enterococcus faecalis
+1352	species	Enterococcus faecium
+1357	genus	Lactococcus
+1358	species	Lactococcus lactis
+1380	genus	Atopobium
+1382	species	Atopobium parvulum
+1386	genus	Bacillus
+1392	species	Bacillus anthracis
+1393	species	Brevibacillus brevis
+1396	species	Bacillus cereus
+1404	species	Bacillus megaterium
+1413	species	Bacillus cellulosilyticus
+1423	species	Bacillus subtilis
+1452	species	Bacillus atrophaeus
+1485	genus	Clostridium
+1488	species	Clostridium acetobutylicum
+1491	species	Clostridium botulinum
+1493	species	Clostridium cellulovorans
+1496	species	Peptoclostridium difficile
+1502	species	Clostridium perfringens
+1515	species	Ruminiclostridium thermocellum
+1517	species	Thermoanaerobacterium thermosaccharolyticum
+1520	species	Clostridium beijerinckii
+1525	species	Moorella thermoacetica
+1538	species	Clostridium ljungdahlii
+1562	genus	Desulfotomaculum
+1569	genus	Sporosarcina
+1570	species	Halobacillus halophilus
+1571	species	Sporosarcina ureae
+1573	genus	Clavibacter
+1575	species	Leifsonia xyli
+1578	genus	Lactobacillus
+1579	species	Lactobacillus acidophilus
+1580	species	Lactobacillus brevis
+1581	species	Lactobacillus buchneri
+1582	species	Lactobacillus casei
+1584	species	Lactobacillus delbrueckii
+1587	species	Lactobacillus helveticus
+1590	species	Lactobacillus plantarum
+1596	species	Lactobacillus gasseri
+1598	species	Lactobacillus reuteri
+1613	species	Lactobacillus fermentum
+1623	species	Lactobacillus ruminis
+1624	species	Lactobacillus salivarius
+1637	genus	Listeria
+1639	species	Listeria monocytogenes
+1643	species	Listeria welshimeri
+1663	genus	Arthrobacter
+1678	genus	Bifidobacterium
+1681	species	Bifidobacterium bifidum
+1707	genus	Cellulomonas
+1716	genus	Corynebacterium
+1717	species	Corynebacterium diphtheriae
+1718	species	Corynebacterium glutamicum
+1719	species	Corynebacterium pseudotuberculosis
+1727	species	Corynebacterium variabile
+1730	genus	Eubacterium
+1736	species	Eubacterium limosum
+1743	genus	Propionibacterium
+1744	species	Propionibacterium freudenreichii
+1747	species	Propionibacterium acnes
+1754	genus	Thermoanaerobacter
+1763	genus	Mycobacterium
+1764	species	Mycobacterium avium
+1767	species	Mycobacterium intracellulare
+1769	species	Mycobacterium leprae
+1772	species	Mycobacterium smegmatis
+1817	genus	Nocardia
+1827	genus	Rhodococcus
+1835	genus	Saccharopolyspora
+1836	species	Saccharopolyspora erythraea
+1839	genus	Nocardioides
+1851	genus	Saccharomonospora
+1852	species	Saccharomonospora viridis
+1854	genus	Frankia
+1859	species	Frankia alni
+1883	genus	Streptomyces
+1902	species	Streptomyces coelicolor
+1911	species	Streptomyces griseus
+1930	species	Streptomyces scabiei
+2000	genus	Streptosporangium
+2001	species	Streptosporangium roseum
+2019	genus	Thermomonospora
+2020	species	Thermomonospora curvata
+2021	species	Thermobifida fusca
+2047	species	Rothia dentocariosa
+2053	genus	Gordonia
+2054	species	Gordonia bronchialis
+2056	genus	Sphaerobacter
+2057	species	Sphaerobacter thermophilus
+2060	genus	Tsukamurella
+2061	species	Tsukamurella paurometabola
+2093	genus	Mycoplasma
+2095	species	Mycoplasma capricolum
+2096	species	Mycoplasma gallisepticum
+2097	species	Mycoplasma genitalium
+2098	species	Mycoplasma hominis
+2100	species	Mycoplasma hyorhinis
+2104	species	Mycoplasma pneumoniae
+2107	species	Mycoplasma pulmonis
+2109	species	Mycoplasma synoviae
+2111	species	Mycoplasma arthritidis
+2118	species	Mycoplasma mobile
+2129	genus	Ureaplasma
+2130	species	Ureaplasma urealyticum
+2172	genus	Methanobrevibacter
+2173	species	Methanobrevibacter smithii
+2175	genus	Methanohalophilus
+2176	species	Methanohalophilus mahii
+2179	genus	Methanothermus
+2180	species	Methanothermus fervidus
+2184	genus	Methanococcus
+2192	genus	Methanocorpusculum
+2202	genus	Methanospirillum
+2203	species	Methanospirillum hungatei
+2207	genus	Methanosarcina
+2208	species	Methanosarcina barkeri
+2209	species	Methanosarcina mazei
+2214	species	Methanosarcina acetivorans
+2222	genus	Methanosaeta
+2223	species	Methanosaeta concilii
+2224	species	Methanosaeta thermophila
+2225	genus	Methanococcoides
+2233	genus	Archaeoglobus
+2234	species	Archaeoglobus fulgidus
+2237	genus	Haloarcula
+2238	species	Haloarcula marismortui
+2239	genus	Halobacterium
+2242	species	Halobacterium salinarum
+2260	genus	Pyrococcus
+2261	species	Pyrococcus furiosus
+2263	genus	Thermococcus
+2270	genus	Thermoproteus
+2273	genus	Desulfurococcus
+2276	genus	Pyrobaculum
+2277	species	Pyrobaculum islandicum
+2279	genus	Staphylothermus
+2280	species	Staphylothermus marinus
+2284	genus	Sulfolobus
+2295	genus	Desulfobacterium
+2296	species	Desulfobacterium autotrophicum
+2316	genus	Methanosphaera
+2317	species	Methanosphaera stadtmanae
+2321	genus	Methanohalobium
+2322	species	Methanohalobium evestigatum
+2335	genus	Thermotoga
+2336	species	Thermotoga maritima
+2349	genus	Haliscomenobacter
+2350	species	Haliscomenobacter hydrossis
+2370	genus	Xylella
+2371	species	Xylella fastidiosa
+2420	genus	Thermosipho
+2421	species	Thermosipho africanus
+2422	genus	Fervidobacterium
+2424	species	Fervidobacterium nodosum
+2433	genus	Roseobacter
+2697	genus	Heliobacterium
+2723	genus	Hirschia
+2724	species	Hirschia baltica
+2742	genus	Marinobacter
+2743	species	Marinobacter hydrocarbonoclasticus
+2745	genus	Halomonas
+2746	species	Halomonas elongata
+2747	genus	Carnobacterium
+2751	species	Carnobacterium maltaromaticum
+4930	genus	Saccharomyces
+4932	species	Saccharomyces cerevisiae
+5206	genus	Filobasidiella
+5207	species	Cryptococcus neoformans
+9605	genus	Homo
+9606	species	Homo sapiens
+12914	genus	Acidianus
+12916	genus	Acidovorax
+13373	species	Burkholderia mallei
+13687	genus	Sphingomonas
+13769	species	Natrialba magadii
+28025	species	Bifidobacterium animalis
+28037	species	Streptococcus mitis
+28048	genus	Acidothermus
+28049	species	Acidothermus cellulolyticus
+28065	genus	Rhodoferax
+28105	genus	Sinorhizobium
+28108	species	Alteromonas macleodii
+28110	species	Francisella philomiragia
+28123	species	Porphyromonas asaccharolytica
+28132	species	Prevotella melaninogenica
+28151	species	Serratia proteamaculans
+28173	species	Vibrio nigripulchritudo
+28196	genus	Arcobacter
+28228	genus	Colwellia
+28229	species	Colwellia psychrerythraea
+28231	genus	Geobacter
+28232	species	Geobacter metallireducens
+28236	genus	Petrotoga
+28253	genus	Marinomonas
+28263	genus	Arcanobacterium
+28264	species	Arcanobacterium haemolyticum
+28447	species	Clavibacter michiganensis
+28450	species	Burkholderia pseudomallei
+28895	genus	Thermoanaerobacterium
+28901	species	Salmonella enterica
+29291	species	Methanococcoides burtonii
+29292	species	Pyrococcus abyssi
+29303	species	Streptomyces cattleya
+29330	genus	Alicyclobacillus
+29438	species	Pseudomonas savastanoi
+29465	genus	Veillonella
+29466	species	Veillonella parvula
+29487	genus	Photorhabdus
+29494	species	Vibrio furnissii
+29501	species	Mycoplasma haemofelis
+29519	species	Borreliella garinii
+29521	genus	Brachyspira
+29526	genus	Syntrophobacter
+29543	species	Pelobacter propionicus
+29546	species	Lawsonia intracellularis
+29548	genus	Rhodothermus
+29549	species	Rhodothermus marinus
+29574	genus	Taylorella
+29580	genus	Janthinobacterium
+31909	species	Halothermothrix orenii
+31998	species	Methylobacterium radiotolerans
+32008	genus	Burkholderia
+32012	genus	Thiomonas
+32025	species	Helicobacter hepaticus
+32046	species	Synechococcus elongatus
+32049	species	Synechococcus sp. PCC 7002
+32068	genus	Sebaldella
+32207	genus	Rothia
+32636	genus	Halothermothrix
+33045	species	Bartonella grahamii
+33059	species	Acidithiobacillus caldus
+33071	genus	Gloeobacter
+33072	species	Gloeobacter violaceus
+33075	species	Acidobacterium capsulatum
+33926	genus	Candidatus Phytoplasma
+33959	species	Lactobacillus johnsonii
+33973	genus	Acidobacterium
+33981	genus	Kineococcus
+33986	genus	Exiguobacterium
+33993	genus	Neorickettsia
+33996	species	Gluconacetobacter diazotrophicus
+34072	genus	Variovorax
+34073	species	Variovorax paradoxus
+34090	species	Pelodictyon phaeoclathratiforme
+35554	species	Geobacter sulfurreducens
+35701	species	Heliobacterium modesticaldum
+35786	species	Coprothermobacter proteolyticus
+35798	genus	Nitrosospira
+36809	species	Mycobacterium abscessus
+36853	genus	Desulfitobacterium
+36861	species	Thiobacillus denitrificans
+36873	species	Paraburkholderia xenovorans
+37326	species	Nocardia brasiliensis
+37636	species	Thermus scotoductus
+37734	species	Enterococcus casseliflavus
+37919	species	Rhodococcus opacus
+38289	species	Corynebacterium jeikeium
+39643	genus	Sorangium
+39765	species	Thiomicrospira crunogena
+39766	species	Sulfurimonas denitrificans
+39773	genus	Methylomicrobium
+40136	genus	Oligotropha
+40137	species	Oligotropha carboxidovorans
+40269	species	Aliivibrio salmonicida
+40323	genus	Stenotrophomonas
+40324	species	Stenotrophomonas maltophilia
+40576	species	Xenorhabdus bovienii
+41275	genus	Brevundimonas
+41431	species	Cyanothece sp. PCC 8801
+41707	genus	Lawsonia
+41980	genus	Metallosphaera
+42054	genus	Chromohalobacter
+42255	genus	Rubrobacter
+42443	species	Roseobacter litoralis
+42837	genus	Ammonifex
+42838	species	Ammonifex degensii
+42862	species	Rickettsia felis
+42879	species	Methanococcus aeolicus
+43305	species	Butyrivibrio proteoclasticus
+43663	species	Paenarthrobacter aurescens
+43673	genus	Jonesia
+43674	species	Jonesia denitrificans
+43675	species	Rothia mucilaginosa
+43687	species	Metallosphaera sedula
+43771	species	Corynebacterium urealyticum
+43773	genus	Syntrophus
+43947	genus	Tolumonas
+43948	species	Tolumonas auensis
+43988	genus	Cyanothece
+43989	species	Cyanothece sp. ATCC 51142
+44000	genus	Caldicellulosiruptor
+44001	species	Caldicellulosiruptor saccharolyticus
+44013	genus	Polynucleobacter
+44249	genus	Paenibacillus
+44260	genus	Moorella
+45361	species	Mycoplasma conjunctivae
+45662	genus	Desulfohalobium
+45663	species	Desulfohalobium retbaense
+45667	genus	Halobacillus
+46254	genus	Oenococcus
+46355	species	Spirochaeta africana
+46541	species	Thermosipho melanesiensis
+47715	species	Lactobacillus rhamnosus
+47770	species	Lactobacillus crispatus
+48736	genus	Ralstonia
+48935	species	Novosphingobium aromaticivorans
+49319	species	Rubrobacter xylanophilus
+49338	species	Desulfitobacterium hafniense
+50052	species	Mycoplasma crocodyli
+51196	genus	Syntrophobotulus
+51197	species	Syntrophobotulus glycolicus
+51668	genus	Tetragenococcus
+51669	species	Tetragenococcus halophilus
+52584	species	Brachyspira pilosicoli
+52972	genus	Polaromonas
+53246	genus	Pseudoalteromonas
+53335	genus	Pantoea
+53357	genus	Intrasporangium
+53358	species	Intrasporangium calvum
+53572	genus	Deferribacter
+53945	genus	Octadecabacter
+53946	species	Octadecabacter arcticus
+54120	species	Methanolacinia petrolearia
+54258	genus	Ignicoccus
+54291	species	Raoultella ornithinolytica
+55080	genus	Brevibacillus
+55148	species	Deinococcus proteolyticus
+55206	species	Spirochaeta smaragdinae
+55802	species	Thermococcus barophilus
+56635	genus	Aeropyrum
+56636	species	Aeropyrum pernix
+56812	species	Shewanella frigidimarina
+57499	genus	Kytococcus
+57975	species	Burkholderia thailandensis
+58138	species	Desulfotomaculum acetoxidans
+58180	species	Desulfovibrio alaskensis
+59753	genus	Alcanivorax
+60217	species	Shewanella violacea
+60478	species	Shewanella amazonensis
+60552	species	Burkholderia vietnamiensis
+60890	species	Phaeobacter gallaeciensis
+60892	genus	Desulfobacca
+60893	species	Desulfobacca acetoxidans
+61434	genus	Dehalococcoides
+61435	species	Dehalococcoides mccartyi
+61645	species	Enterobacter asburiae
+62140	species	Acidiphilium multivorum
+62322	species	Shewanella baltica
+63186	species	Zobellia galactanivorans
+63612	species	Sodalis glossinidius
+63742	genus	Natrialba
+64159	genus	Desulfurobacterium
+64160	species	Desulfurobacterium thermolithotrophum
+64471	species	Synechococcus sp. CC9311
+64897	species	Borreliella bissettii
+65058	species	Corynebacterium ulcerans
+65551	genus	Meiothermus
+66219	species	Lachnoclostridium phytofermentans
+67572	genus	Psychromonas
+67825	species	Citrobacter rodentium
+67854	species	Actinobacillus succinogenes
+68280	species	Streptomyces violaceusniger
+68287	genus	Mesorhizobium
+68288	genus	Cyclobacterium
+68335	genus	Coprothermobacter
+68909	species	Deinococcus geothermalis
+69474	genus	Orientia
+69499	species	Petrotoga mobilis
+69525	species	Natrinema pellirubrum
+69965	genus	Macrococcus
+69966	species	Macrococcus caseolyticus
+70864	species	Shewanella pealeana
+71666	genus	Waddlia
+71667	species	Waddlia chondrophila
+73029	genus	Dechloromonas
+74109	species	Photobacterium profundum
+74313	species	Brevundimonas subvibrioides
+74317	genus	Maricaulis
+74318	species	Maricaulis maris
+74968	genus	Ferroplasma
+76890	genus	Asticcacaulis
+78587	species	Asticcacaulis excentricus
+79206	genus	Desulfosporosinus
+79209	species	Desulfosporosinus meridiei
+79328	genus	Chitinophaga
+79329	species	Chitinophaga pinensis
+79885	species	Bacillus pseudofirmus
+79967	species	Erwinia pyrifoliae
+80865	genus	Delftia
+80866	species	Delftia acidovorans
+80867	species	Acidovorax avenae
+81028	species	Treponema brennaborense
+81461	genus	Thermanaerovibrio
+81462	species	Thermanaerovibrio acidaminovorans
+81466	genus	Aminobacterium
+81468	species	Aminobacterium colombiense
+81682	genus	Methylovorus
+83171	species	Methanocaldococcus fervens
+83556	species	Chlamydia felis
+83558	species	Chlamydia pneumoniae
+83560	species	Chlamydia muridarum
+83618	genus	Pseudoxanthomonas
+83677	genus	Thermobifida
+83984	species	Methanocorpusculum labreanum
+84108	genus	Slackia
+84110	species	Slackia heliotrinireducens
+84111	genus	Eggerthella
+84156	species	Archaeoglobus profundus
+84404	genus	Hippea
+84405	species	Hippea maritima
+84565	genus	Sodalis
+84567	genus	Pedobacter
+84590	species	Taylorella asinigenitalis
+84593	genus	Verrucosispora
+84595	species	Gordonia polyisoprenivorans
+84599	species	Staphylothermus hellenicus
+84756	genus	Beutenbergia
+84757	species	Beutenbergia cavernae
+84980	species	Desulfotalea psychrophila
+86170	species	Syntrophothermus lipocalidus
+86304	species	Saccharophagus degradans
+86665	species	Bacillus halodurans
+87883	species	Burkholderia multivorans
+88058	species	Treponema primitia
+88688	species	Caulobacter segnis
+88723	genus	Natrinema
+89154	species	Corynebacterium terpenotabidum
+89184	species	Ruegeria pomeroyi
+89404	genus	Glaciecola
+89583	genus	Gluconacetobacter
+93466	species	Fervidobacterium pennivorans
+94122	species	Shewanella sp. ANA-3
+94254	species	Dyadobacter fermentans
+95486	species	Burkholderia cenocepacia
+96345	species	Flavobacterium psychrophilum
+97050	genus	Ruegeria
+97084	species	Halobacteriovorax marinus
+97393	species	Ferroplasma acidarmanus
+100715	genus	Chloroherpeton
+100716	species	Chloroherpeton thalassium
+103690	species	Nostoc sp. PCC 7120
+104264	genus	Cellulophaga
+105560	species	Methylibium petroleiphilum
+105850	genus	Acidilobus
+106589	genus	Cupriavidus
+107709	species	Opitutus terrae
+109168	genus	Desulfotalea
+110500	species	Pelotomaculum thermopropionicum
+110662	species	Synechococcus sp. CC9605
+110932	genus	Leifsonia
+111500	genus	Muricauda
+111501	species	Muricauda ruestringensis
+112040	genus	Zobellia
+114616	species	Methylobacterium nodulans
+114627	genus	Alkaliphilus
+117207	species	Sphingopyxis alaskensis
+117999	genus	Denitrovibrio
+118000	species	Denitrovibrio acetiphilus
+119394	species	Pseudothermotoga thermarum
+119484	species	Syntrophobacter fumaroxidans
+119864	species	Marinomonas mediterranea
+119977	genus	Acidithiobacillus
+120652	genus	Methylocella
+120831	genus	Dyadobacter
+120961	genus	Roseiflexus
+120962	species	Roseiflexus castenholzii
+121277	species	Pyrobaculum arsenaticum
+122277	genus	Pectobacterium
+129001	genus	Syntrophothermus
+129337	genus	Geobacillus
+129957	genus	Carboxydothermus
+129958	species	Carboxydothermus hydrogenoformans
+131568	species	Kineococcus radiotolerans
+133193	genus	Alkalilimnicola
+133539	species	Nitrosococcus halophilus
+138072	species	Candidatus Hamiltonella defensa
+146784	genus	Bacteriovorax
+146785	genus	Thermosynechococcus
+146786	species	Thermosynechococcus elongatus
+146825	genus	Halorhabdus
+146826	species	Halorhabdus utahensis
+146918	genus	Salinibacter
+146919	species	Salinibacter ruber
+146937	genus	Azospira
+146939	species	Azospira oryzae
+148447	species	Paraburkholderia phymatum
+149715	species	Marinitoga piezophila
+150022	genus	Finegoldia
+151895	species	Pseudopedobacter saltans
+152053	genus	Starkeya
+152260	species	Chloroflexus aggregans
+152480	species	Burkholderia ambifaria
+155077	species	Cellvibrio japonicus
+155493	genus	Gallibacterium
+155862	genus	Methanothermococcus
+155863	species	Methanothermococcus okinawensis
+155892	species	Caulobacter vibrioides
+155977	genus	Acaryochloris
+155978	species	Acaryochloris marina
+158080	species	Chromohalobacter salexigens
+158899	species	Collimonas fungivorans
+160232	species	Nanoarchaeum equitans
+160233	species	Ignicoccus hospitalis
+160674	genus	Raoultella
+160791	species	Sphingomonas wittichii
+160798	genus	Marinitoga
+160808	species	Acidithiobacillus ferrivorans
+161492	genus	Anaeromyxobacter
+161493	species	Anaeromyxobacter dehalogenans
+161879	species	Corynebacterium kroppenstedtii
+162171	genus	Magnetococcus
+164450	genus	Vulcanisaeta
+164451	species	Vulcanisaeta distributa
+165696	genus	Novosphingobium
+165697	genus	Sphingopyxis
+168470	genus	Laribacter
+168471	species	Laribacter hongkongensis
+171695	species	Thermodesulfatator indicus
+172049	species	Thermococcus sibiricus
+178440	genus	Opitutus
+179636	species	Alicycliphilus denitrificans
+182210	species	Desulfovibrio aespoeensis
+182337	species	Erwinia billingiae
+182639	genus	Kribbella
+182640	species	Kribbella flavida
+182709	genus	Oceanobacillus
+182710	species	Oceanobacillus iheyensis
+182899	genus	Persephonella
+184117	species	Thermoproteus uzoniensis
+186191	genus	Marinithermus
+186192	species	Marinithermus hydrothermalis
+186490	species	Candidatus Baumannia cicadellinicola
+187137	species	Oceanithermus profundus
+187878	species	Thermococcus gammatolerans
+188905	genus	Jannaschia
+191291	genus	Nautilia
+191373	genus	Pelotomaculum
+192073	species	Shewanella denitrificans
+192843	species	Rhodoferax ferrireducens
+193568	genus	Nanoarchaeum
+196118	genus	Methanocaldococcus
+196162	species	Nocardioides sp. JS614
+197162	species	Deferribacter desulfuricans
+199596	species	Methylocella silvestris
+201096	genus	Alicycliphilus
+202746	genus	Sulfurimonas
+202747	species	Sulfurimonas autotrophica
+202907	genus	Collimonas
+204037	genus	Dickeya
+204038	species	Dickeya dadantii
+204773	species	Herminiimonas arsenicoxydans
+208215	genus	Parvularcula
+208216	species	Parvularcula bermudensis
+208226	species	Alkaliphilus metalliredigens
+208447	genus	Oceanithermus
+208596	species	Carnobacterium sp. 17-4
+213485	genus	Micavibrio
+214906	genus	Histophilus
+215591	species	Treponema caldarium
+215813	species	Dinoroseobacter shibae
+216465	species	Polaromonas naphthalenivorans
+216816	species	Bifidobacterium longum
+223967	species	Methylobacterium populi
+230355	genus	Methanolacinia
+239934	genus	Akkermansia
+239935	species	Akkermansia muciniphila
+241192	genus	Thermodesulfatator
+242703	species	Acidilobus saccharovorans
+244366	species	Klebsiella variicola
+244787	species	Nautilia profundicola
+252306	genus	Robiginitalea
+252307	species	Robiginitalea biformata
+252356	genus	Maribacter
+252965	genus	Mahella
+252966	species	Mahella australiensis
+256319	genus	Chlorobaculum
+258224	species	Corynebacterium resistens
+258255	genus	Pseudovibrio
+259537	species	Dechloromonas aromatica
+261292	species	Nitrosomonas sp. Is79A3
+261963	genus	Kangiella
+261964	species	Kangiella koreensis
+265488	genus	Rhodopirellula
+265570	genus	Sulfurovum
+265606	species	Rhodopirellula baltica
+266009	species	Methylovorus glucosotrophus
+266779	species	Chelativorans sp. BNC1
+267818	species	Lactobacillus kefiranofaciens
+269260	genus	Nitratifractor
+269261	species	Nitratifractor salsuginis
+271097	species	Shewanella sediminis
+271098	species	Shewanella halifaxensis
+274539	species	Chlorobaculum parvum
+281119	genus	Candidatus Amoebophilus
+283734	species	Staphylococcus pseudintermedius
+284016	species	Phenylobacterium zucineum
+286801	genus	Segniliparus
+286802	species	Segniliparus rotundus
+288000	species	Bradyrhizobium sp. BTAi1
+290053	species	Bacteroides helcogenes
+290399	species	Arthrobacter sp. FB24
+290400	species	Jannaschia sp. CCS1
+291112	species	Photorhabdus asymbiotica
+291988	genus	Thermosediminibacter
+291990	species	Thermosediminibacter oceani
+292414	species	Ruegeria sp. TM1040
+296591	species	Polaromonas sp. JS666
+298653	species	Frankia sp. EAN1pec
+300231	species	Glaciecola nitratireducens
+302485	genus	Phaeobacter
+303379	genus	Herminiimonas
+304895	species	Catenulispora acidiphila
+305976	genus	Pusillimonas
+309512	genus	Dinoroseobacter
+309805	species	Persephonella marina
+309887	species	Deinococcus maricopensis
+310783	species	Deinococcus deserti
+311400	species	Thermococcus kodakarensis
+312306	species	Pseudomonas entomophila
+313603	species	Maribacter sp. HTCC2170
+314282	species	Psychromonas sp. CNPT3
+314722	species	Pseudoxanthomonas suwonensis
+316068	species	Leadbetterella byssophila
+316277	species	Syntrophus aciditrophicus
+316279	species	Synechococcus sp. CC9902
+316612	genus	Methylibium
+316625	genus	Saccharophagus
+319458	genus	Leadbetterella
+321327	species	Synechococcus sp. JA-3-3Ab
+326319	genus	Dokdonia
+330214	species	Nitrospira defluvii
+330922	species	Psychrobacter cryohalolentis
+332162	genus	Candidatus Solibacter
+332163	species	Candidatus Solibacter usitatus
+332246	genus	Halalkalicoccus
+332248	genus	Truepera
+332249	species	Truepera radiovictrix
+332410	species	Exiguobacterium sibiricum
+334543	species	Psychrobacter arcticus
+338565	species	Erwinia tasmaniensis
+342948	species	Thermococcus onnurineus
+342949	species	Pyrococcus sp. NA2
+349221	species	Micavibrio aeruginosavorus
+351052	species	Alkalilimnicola ehrlichii
+357794	species	Psychromonas ingrahamii
+359303	species	Shewanella loihica
+359407	genus	Methylotenera
+359408	species	Methylotenera mobilis
+361575	species	Pseudarthrobacter phenanthrenivorans
+364316	genus	Verminephrobacter
+364317	species	Verminephrobacter eiseniae
+364409	genus	Granulibacter
+364410	species	Granulibacter bethesdensis
+366648	species	Xanthomonas fuscans
+375286	species	Janthinobacterium sp. Marseille
+375288	genus	Parabacteroides
+375928	genus	Natranaerobius
+375929	species	Natranaerobius thermophilus
+376805	species	Bacteroides salanitronis
+379067	species	Streptomyces bingchenggensis
+379546	genus	Aciduliprofundum
+379547	species	Aciduliprofundum boonei
+380021	species	Pseudomonas protegens
+387093	species	Sulfurovum sp. NBC37-1
+387342	genus	Halopiger
+387343	species	Halopiger xanaduensis
+390846	genus	Echinicola
+390884	species	Echinicola vietnamensis
+392733	genus	Terriglobus
+392734	species	Terriglobus roseus
+393029	genus	Desulfurispirillum
+395922	species	Coraliomargarita akajimensis
+395961	species	Cyanothece sp. PCC 7425
+398743	species	Zunongwangia profunda
+399320	genus	Sphaerochaeta
+399742	species	Enterobacter sp. 638
+400668	species	Marinomonas sp. MWYL1
+401618	genus	Candidatus Riesia
+401619	species	Candidatus Riesia pediculicola
+404011	species	Shewanella piezotolerans
+404589	species	Anaeromyxobacter sp. Fw109-5
+405212	species	Alicyclobacillus acidocaldarius
+411566	genus	Candidatus Midichloria
+412963	species	Paraburkholderia rhizoxinica
+413496	genus	Cronobacter
+413810	species	Halalkalicoccus jeotgali
+414878	genus	Catenulispora
+416916	genus	Aggregatibacter
+417127	genus	Zunongwangia
+426114	species	Thiomonas arsenitoxydans
+442430	genus	Coraliomargarita
+449972	genus	Chelativorans
+458032	genus	Chloracidobacterium
+458033	species	Chloracidobacterium thermophilum
+461876	species	Alkaliphilus oremlandii
+466152	genus	Singulisphaera
+466153	species	Singulisphaera acidiphila
+470934	species	Pantoea vagans
+471223	species	Geobacillus sp. WCH70
+471826	genus	Candidatus Desulforudis
+475087	genus	Methanosphaerula
+475088	species	Methanosphaerula palustris
+482957	species	Burkholderia lata
+497965	species	Cyanothece sp. PCC 7822
+498845	genus	Candidatus Korarchaeum
+498846	species	Candidatus Korarchaeum cryptofilum
+511434	genus	Candidatus Azobacteroides
+511435	species	Candidatus Azobacteroides pseudotrichonymphae
+511678	genus	Aliivibrio
+511745	genus	Methylacidiphilum
+511746	species	Methylacidiphilum infernorum
+531813	species	Pelagibacterium halotolerans
+551759	genus	Aromatoleum
+551760	species	Aromatoleum aromaticum
+552810	species	Dehalogenimonas lykanthroporepellens
+568987	genus	Candidatus Hamiltonella
+575200	species	Corynebacterium maris
+576610	species	Polynucleobacter necessarius
+580165	species	Bacillus cytotoxicus
+640512	species	Burkholderia sp. CCGE1003
+644281	species	Methanocaldococcus sp. FS406-22
+651143	species	Fibrella aestuarina
+651456	genus	Kosmotoga
+651457	species	Kosmotoga olearia
+658061	genus	Candidatus Koribacter
+658062	species	Candidatus Koribacter versatilis
+670486	genus	Dehalogenimonas
+702113	species	Novosphingobium sp. PP1Y
+715451	species	Alteromonas sp. SN2
+717609	species	Caldicellulosiruptor obsidiansis
+756883	species	halophilic archaeon DL31
+767891	genus	Candidatus Puniceispirillum
+767892	species	Candidatus Puniceispirillum marinum
+861914	genus	Fibrella
+870903	species	Terriglobus saanensis
+875328	species	Mycobacterium sinense
+884684	species	Mageeibacillus indolicus
+911045	species	Pseudovibrio sp. FO-BEG1
+929509	genus	Solitalea
+936456	species	Desulfurispirillum indicum
+936476	species	Marinomonas posidonica
+940557	genus	Granulicella
+940614	species	Granulicella mallensis
+940615	species	Granulicella tundricola
+944547	species	Arcobacter sp. L
+983548	species	Dokdonia sp. 4H-3-7-5
+991903	genus	Polymorphum
+991904	species	Polymorphum gilvum
+1003110	species	Verrucosispora maris
+1006005	species	Metallosphaera cuprina
+1007105	species	Pusillimonas sp. T7-7
+1008460	species	Pyrococcus yayanosii
+1042156	species	Clostridium sp. SY8519
+1042877	species	Thermococcus sp. 4557
+1048757	genus	Candidatus Moranella
+1082930	genus	Pelagibacterium
+1097668	species	Burkholderia sp. YI23
+1111069	species	Thermus sp. CCB_US3_UF1
+1124597	species	Magnetococcus marinus
+1131703	species	Sphaerochaeta globosa
+1131707	species	Sphaerochaeta pleomorpha
+1148157	species	Acinetobacter oleivorans
+1161942	species	Ruminococcus champanellensis
+1176649	species	Agrobacterium fabrum
+1177712	species	Komagataeibacter medellinensis
+1184387	species	Mesotoga prima
+1184396	genus	Mesotoga
+1203471	species	Geobacter daltonii
+1217908	species	Octadecabacter antarcticus
+1434011	genus	Komagataeibacter
+1481960	genus	Peptoclostridium
+1506553	genus	Lachnoclostridium
+1508657	genus	Ruminiclostridium
