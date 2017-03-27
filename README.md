@@ -40,8 +40,16 @@ Executes weighted majority voting ensemble and outpus relavent metrics
 #### test_emse.m
 Ensembled based on N tool output unions
 
+#### d1_majority_voting_per_taxa.m
+Collects statistics per taxa id over genus and species for all samples and tools, for the majority voting ensemble.
+
 ## Tab delimited data files
 #### data.zip
 #### false_positives_only.txt
 #### statistics.txt
 #### trusted_taxa_final.txt
+#### majority_voting_overall.txt
+taxa_id
+count_won_vote - number of times the ensemble voted the taxa id was present
+count_truth_table - number of times the taxa is was actually present
+accuracy = (count_won_vote/count_truth_table)
