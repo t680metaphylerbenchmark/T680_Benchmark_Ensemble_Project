@@ -49,7 +49,7 @@ Collects statistics per taxa id over genus and species for all samples and tools
 #### statistics.txt
 #### trusted_taxa_final.txt
 #### majority_voting_overall.txt
-taxa_id
-count_won_vote - number of times the ensemble voted the taxa id was present
-count_truth_table - number of times the taxa is was actually present
-accuracy = (count_won_vote/count_truth_table)
+taxa_id<br />
+count_won_vote - number of times the ensemble voted the taxa id was present<br />
+count_truth_table - number of times the taxa is was actually present<br />
+accuracy = (count_won_vote/count_truth_table)<br />
